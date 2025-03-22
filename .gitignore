@@ -5,6 +5,7 @@
 /.idea
 /logs/
 /urls.txt
+/node_modules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
